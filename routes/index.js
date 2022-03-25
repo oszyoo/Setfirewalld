@@ -6,7 +6,7 @@ const { spawn } = require('child_process');
 
 
 const otplib = require('otplib');
-const secret = 'KM2UEMCNGRBDCVZXJMYE26SHKVQTCQDC';
+const secret = '-----replace this otplib sercet --------';
 
 
 
